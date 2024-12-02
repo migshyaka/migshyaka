@@ -10,7 +10,7 @@
 
 ## **Technical Skills**  
 - **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, nltk), SQL (MySQL, PostgreSQL), R, SAS  
-- **Big Data Platforms**: Databricks (Apache Spark), OpenET API  
+- **Big Data Platforms**: Databricks (Apache Spark) 
 - **Visualization/Microsoft Office Tools**: Tableau, Power BI, Excel (XLOOKUP, PivotTables, PivotCharts, functions, & formulas)  
 - **Other Skills**: Natural Language Processing (NLP), Machine Learning, Geospatial Data Analysis  
 
