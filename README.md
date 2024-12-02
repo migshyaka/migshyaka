@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**migshyaka/migshyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Mig 👋  
+🔭 I recently graduated with a Master of Science in Data Science with a business concentration.  
 
-Here are some ideas to get you started:
+🌱 I’m actively seeking entry-level Data Science, Analytics, and Business Intelligence roles.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: migshyaka@gmail.com 
+
+✨ I am passionate about exploring data, uncovering meaningful insights, and creating impactful solutions that drive decision-making and business growth. My goal is to harness the transformative power of data to create a positive impact in society while solving complex problems.  
+
+## **Technical Skills**  
+- **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, nltk), SQL (MySQL, PostgreSQL), R, SAS  
+- **Big Data Platforms**: Databricks (Apache Spark), OpenET API  
+- **Visualization/Microsoft Office Tools**: Tableau, Power BI, Excel (XLOOKUP, PivotTables, PivotCharts, functions, & formulas)  
+- **Other Skills**: Natural Language Processing (NLP), Machine Learning, Geospatial Data Analysis  
+
+⚡ **Core Strengths**: Growth Mindset, Resilience, Curiosity, Attention to Detail, Strong Work Ethic, Problem-Solving, and Critical Thinking  
